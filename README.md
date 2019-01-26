@@ -9,4 +9,4 @@ Using multer
 ### Usage :
 * Go to the main page, and upload a file using the provided form.
 
-[Link to the Project](https://equinox-shake.glitch.me/){:target="_blank"}
+<a href=https://equinox-shake.glitch.me/" target="_blank">Link to the project</a>
