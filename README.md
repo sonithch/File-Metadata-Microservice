@@ -9,4 +9,4 @@ Using multer
 ### Usage :
 * Go to the main page, and upload a file using the provided form.
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Link to the Project](https://equinox-shake.glitch.me/)
